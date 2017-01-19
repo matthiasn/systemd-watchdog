@@ -10,6 +10,7 @@ service to start your application as a service. You can find examples of that
 for the services running on my box hosting **[matthiasnehlsen.com](http://matthiasnehlsen.com/)**
 and all of the related live examples in this **[repo](https://github.com/matthiasn/conf)**.
 
+[![Dependencies Status](https://jarkeeper.com/matthiasn/systemd-watchdog/status.svg)](https://jarkeeper.com/matthiasn/systemd-watchdog)
 
 ## Supervision by systemd
 
